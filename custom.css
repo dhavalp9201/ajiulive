@@ -1,0 +1,9 @@
+.demo-btn-margin .btn{margin-bottom:6px}
+
+@media only screen and (min-width: 800px) {
+.pendingjobs{margin-right: 20px;}
+}
+
+input:invalid {
+  background-color: #fff0f0;
+}
